@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\String calculator1\bin\Debug\net8.0\String calculator1.exe
+D:\Programmering\Programmering\String calculator1\bin\Debug\net8.0\String calculator1.deps.json
+D:\Programmering\Programmering\String calculator1\bin\Debug\net8.0\String calculator1.runtimeconfig.json
+D:\Programmering\Programmering\String calculator1\bin\Debug\net8.0\String calculator1.dll
+D:\Programmering\Programmering\String calculator1\bin\Debug\net8.0\String calculator1.pdb
+D:\Programmering\Programmering\String calculator1\obj\Debug\net8.0\String calculator1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\String calculator1\obj\Debug\net8.0\String calculator1.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\String calculator1\obj\Debug\net8.0\String calculator1.AssemblyInfo.cs
+D:\Programmering\Programmering\String calculator1\obj\Debug\net8.0\String calculator1.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\String calculator1\obj\Debug\net8.0\String calculator1.dll
+D:\Programmering\Programmering\String calculator1\obj\Debug\net8.0\refint\String calculator1.dll
+D:\Programmering\Programmering\String calculator1\obj\Debug\net8.0\String calculator1.pdb
+D:\Programmering\Programmering\String calculator1\obj\Debug\net8.0\String calculator1.genruntimeconfig.cache
+D:\Programmering\Programmering\String calculator1\obj\Debug\net8.0\ref\String calculator1.dll
